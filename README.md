@@ -5,9 +5,7 @@ Constant Contact C# Tutor is an actual working app written in C# to demonstrate 
 
 Requires .NET 4 framework to run.
 
-Since this is a working app that integrates with Constant Contact web services API, you will also need your Constant Contact login credentials, which can be obtained for free 
-
-by signing up for a trial from <a href="www.constantcontact.com">www.constantcontact.com</a>
+Since this is a working app that integrates with Constant Contact web services API, you will also need your Constant Contact login credentials, which can be obtained for free by signing up for a trial from <a href="www.constantcontact.com">www.constantcontact.com</a>
 
 Compiled version of the sample app can be downloaded from the /App directory.  
 
